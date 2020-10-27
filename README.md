@@ -11,6 +11,7 @@
 * regularBonus - регулярная скидка клиента 
 * specialBonus - дополнительная скидка
 * totalBonus - переменная для хранения итогового значения (сумма скидок)
+
 Был проведен позитивный тест c данными: regularBonus = 0.3, specialBonus = 0.6
                                                        
 ## Результаты
@@ -18,4 +19,4 @@
 2. Ссылка на баг-репорт : [Теряется доля процента в сумме скидок](https://github.com/alfiiasharipova/PrecisionTest/issues/1)
 
 ## Общие рекомендации
-Заменить тип переменных bankAccount, transfer, total на long.
+Решить issue
